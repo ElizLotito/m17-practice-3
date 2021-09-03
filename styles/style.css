@@ -1,20 +1,7 @@
 h1 {color: pink;}
 
-div {
-	border: 1px solid black;
-	width: 100px;
-	height: 100px;
-	display: inline-block
-  }
+.blue {background-color: blue;}
   
-  .blue {
-	background-color: blue;
-  }
+.red {background-color: red;}
   
-  .red {
-	background-color: red;
-  }
-  
-  .green {
-	background-color: green;
-  }
+.green {background-color: green;}
